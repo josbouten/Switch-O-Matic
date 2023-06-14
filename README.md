@@ -7,5 +7,5 @@ The switch toggles between the inputs and the reset signal can be used to synchr
 The inputs and outputs are bidirectional.
 
 ![Switch-O-Matic](20230413_145929.jpg)
-![Switch-O-Matic IO](Schematic_Dual-Switch-O-Matic_IO_v0.2.jpg)
-![Switch-O-Matic Main Board](Schematic_Dual-Switch-O-Matic_main_circuit_v0.2.jpg)
+![Switch-O-Matic IO](Schematic_Dual-Switch-O-Matic_IO_v0.2.png)
+![Switch-O-Matic Main Board](Schematic_Dual-Switch-O-Matic_main_circuit_v0.2.png)
